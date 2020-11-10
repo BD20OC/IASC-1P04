@@ -4,4 +4,4 @@ Welcome to the website for my Twine Game, Created for the coures IASC 1P04 at Br
 
 ## Playtest
 
-Playtest my games .[here].
+Playtest my games .[here].(playtest/Memory wipe (3).html)
