@@ -8,4 +8,4 @@ Play my game [here](playtest/playtest)
 
 ## Prototype
 
-play the prototype .[here].(Prototype/MemoryWipeGame.html)
+play the prototype [here](Prototype/MemoryWipeGame.html)
