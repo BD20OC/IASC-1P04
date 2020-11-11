@@ -2,6 +2,6 @@
 ## Playtest
 
 ## play the creation
-Play the Game Prototype [here](../prototype/MemoryWipeGame.html)
+Play the Game Prototype [here](../Prototype/MemoryWipeGame.html)
 
 ## complete the playtest survey
