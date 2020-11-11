@@ -6,6 +6,6 @@ Welcome to the website for my Twine Game, Created for the coures IASC 1P04 at Br
 
 Play my game [here](playtest/playtest)
 
-## prototype
+## Prototype
 
 play the prototype .[here].(Prototype/MemoryWipeGame.html)
